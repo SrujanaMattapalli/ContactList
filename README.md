@@ -10,6 +10,8 @@ Edit:user clicks on the name we have the edit option
 
 Delete: user swipe from right to left we can delete the contact
 
+Note: Need to have local Contacts  to display in the app
+
  
 
 
